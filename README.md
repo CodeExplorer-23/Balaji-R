@@ -6,3 +6,5 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 + Python
 + C
 + MySQL
++ HTML
++ CSS
