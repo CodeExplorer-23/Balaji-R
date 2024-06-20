@@ -14,3 +14,6 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 - [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
 - [Twitter](https://twitter.com/your-twitter-username)
 - [Email](mailto:balajiramu23@gmail.com)
+
+  ## 📈 GitHub Stats
+![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeExplorer-23&show_icons=true&theme=radical)
