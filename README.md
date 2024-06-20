@@ -4,3 +4,4 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 
 ## Skills
 + Python, C
++ MySQL
