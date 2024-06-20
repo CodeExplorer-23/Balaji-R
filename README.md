@@ -12,6 +12,9 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 - Machine Learning Algorithms
 - JAVA
 
+## Work Experience
+- Internship in Academor
+
 ## 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
 - [Twitter](https://twitter.com/your-twitter-username)
