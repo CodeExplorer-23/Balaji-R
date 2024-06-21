@@ -11,9 +11,10 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## 🌱 Currently Learning
 - Machine Learning Algorithms
 - JAVA
+- Django
 
 ## Work Experience
-- Internship in Academor (June 2024 - July 2024)
+- AI Internship in Academor (June 2024 - July 2024)
 
 ## 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
