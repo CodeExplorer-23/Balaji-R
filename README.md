@@ -11,7 +11,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## 🌱 Currently Learning
 - Machine Learning Algorithms
 - JAVA
-- DSA (Python)_
+- DSA (Python)
 
 ## Work Experience
 - AI Internship in Academor (June 2024 - July 2024)
