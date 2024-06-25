@@ -24,6 +24,6 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## 📈 GitHub Stats
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeExplorer-23&show_icons=true&theme=radical)<br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeExplorer-23&layout=compact)
+
 
 ![](https://komarev.com/ghpvc/?username=CodeExplorer-23&color=red)
