@@ -3,4 +3,4 @@
  * 100 Days of Code (by Angela Yu)
 
 # ML
- * Introduction to Machine Language (NPTEL)
+ * Introduction to Machine Learning (NPTEL)
