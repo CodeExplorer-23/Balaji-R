@@ -5,5 +5,5 @@
 # ML
  * Introduction to Machine Learning (NPTEL) (Ongoing)
 
-#Cyber Security
+# Cyber Security
  * Google Cybersecurity - Professional Certificate (Ongoing)
