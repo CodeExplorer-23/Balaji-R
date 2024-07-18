@@ -7,7 +7,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## 🔧 Skills
 - **Languages:** Python, C
 - **Databases:** MySQL
-- **Web Development:** HTML5, CSS
+- **Web Development:** HTML5, CSS3
 
 ## 🌱 Currently Learning
 - Machine Learning Algorithms
