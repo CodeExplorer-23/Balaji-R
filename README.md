@@ -5,7 +5,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ![GitHub followers](https://img.shields.io/github/followers/CodeExplorer-23?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
 ## 🔧 Skills
-- **Languages:** Python, C
+- **Languages:** Python, C, JAVA
 - **Databases:** MySQL
 - **Web Development:** HTML5, CSS3
 
