@@ -20,6 +20,11 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 - JAVA
 - DSA (Python)
 
+## 🎓 Education
+- **Bachelor of Technology in Information Technology**
+  - St. Joseph's Institute of Technology
+  - 2023 - Present
+
 ## Work Experience
 - AI Internship in Academor (June 2024 - July 2024)
 
