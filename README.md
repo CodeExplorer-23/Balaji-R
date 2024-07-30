@@ -9,6 +9,12 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 - **Databases:** MySQL
 - **Web Development:** HTML5, CSS3
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql" />
+  </a>
+</p>
+
 ## 🌱 Currently Learning
 - Machine Learning Algorithms
 - JAVA
