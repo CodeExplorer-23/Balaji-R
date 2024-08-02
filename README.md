@@ -28,7 +28,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## Work Experience
 -
 - **AI Internship in Academor (June 2024 - July 2024)**
-   - Collaborated with a team to create report on application of AI for logistics.
+   - Collaborated with a team to create a report on the application of AI for warehousing, manufacturing, and mining industries, as well as the ethical limits of AI.
 
 ## 💬 Let's Connect
 <!--- [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
@@ -43,6 +43,20 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## 🏆 Achievements
 ## 📚 Publications
 
+<!--## Projects
+- Blood Donation Web Application:
+  - Created a web application to facilitate blood donations by connecting donors with recipients.
+  - Technologies: Python, Flask, MySQL, HTML, CSS, JavaScript
+  - Role: Full Stack Developer
+- AI-Powered Cybersecurity solution:
+  - Developed a real-time threat detection and automated response system with a user-friendly dashboard.
+  - Technologies: Python, TensorFlow, Apache Kafka, Snort, Wireshark, Flask, React
+  - Role: Project Lead
+- Secure and Decentralized Identity Verification using Blockchain:
+  - Developed a blockchain solution for secure and decentralized identity verification to reduce fraud in financial transactions.
+  - Technologies: Python, Hyperledger Fabric, MySQL
+  - Role: Lead Developer
+ --> 
 ## 📈 GitHub Stats
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical)<br>
 <br>
