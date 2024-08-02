@@ -18,7 +18,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## 🌱 Currently Learning
 - **Machine Learning Algorithms :** Working on projects involving supervised and unsupervised learning.
 - **JAVA :** Programming in JAVA (NPTEL)
-- **DSA (Python) :** Solivng problems on LeetCode and Skillrack
+- **DSA (Python) :** Solvng problems on LeetCode and Skillrack
 
 ## 🎓 Education
 - **Bachelor of Technology in Information Technology**
