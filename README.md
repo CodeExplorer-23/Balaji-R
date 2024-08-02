@@ -39,6 +39,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 </p>
 
 ## 🏆 Achievements
+## 📚 Publications
 
 ## 📈 GitHub Stats
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical)<br>
