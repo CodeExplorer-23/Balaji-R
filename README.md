@@ -29,9 +29,14 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 - AI Internship in Academor (June 2024 - July 2024)
 
 ## 💬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
+<!--- [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
 - [X](https://x.com/r_balaji242005)
-- [Email](mailto:balajiramu23@gmail.com)
+- [Email](mailto:balajiramu23@gmail.com)-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/balaji-ramu-437b51290/"><img src="https://img.shields.io/badge/LinkedIn-Balaji%20R-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:balajiramu05@gmail.com"><img src="https://img.shields.io/badge/Email-balajiramu05@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://x.com/r_balaji242005"><img src="https://img.shields.io/badge/X-Balaji%20R-blue?style=for-the-badge&logo=x"></a>
+</p>
 
 ## 📈 GitHub Stats
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical)<br>
