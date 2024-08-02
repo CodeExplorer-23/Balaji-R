@@ -38,6 +38,8 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
   <a href="https://x.com/r_balaji242005"><img src="https://img.shields.io/badge/X-Balaji%20R-blue?style=for-the-badge&logo=X"></a>
 </p>
 
+## 🏆 Achievements
+
 ## 📈 GitHub Stats
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical)<br>
 <br>
@@ -45,8 +47,6 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=Balaji-R-05&color=red)
-
-## 🏆 Achievements
 
 <!---
 Balaji-R-05/Balaji-R-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
