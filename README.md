@@ -26,7 +26,6 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
   - 2023 - Present
 
 ## Work Experience
--
 - **AI Internship in Academor (June 2024 - July 2024)**
    - Collaborated with a team to create a report on the application of AI for warehousing, manufacturing, and mining industries, as well as the ethical limits of AI.
 
