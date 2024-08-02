@@ -60,8 +60,10 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical" alt="Balaji's GitHub stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact" alt="Top Langs" />
 </p>
+
 ![](https://komarev.com/ghpvc/?username=Balaji-R-05&color=red)
 
 <!---
