@@ -34,7 +34,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 - [Email](mailto:balajiramu23@gmail.com)-->
 <p align="center">
   <a href="https://www.linkedin.com/in/balaji-ramu-437b51290/"><img src="https://img.shields.io/badge/LinkedIn-Balaji%20R-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:balajiramu05@gmail.com"><img src="https://img.shields.io/badge/Email-balajiramu05@gmail.com-red?style=for-the-badge-small&logo=gmail"></a>
+  <a href="mailto:balajiramu05@gmail.com"><img src="https://img.shields.io/badge/Email-balajiramu05@gmail.com-red?style=for-the-badge-small-case&logo=gmail"></a>
   <a href="https://x.com/r_balaji242005"><img src="https://img.shields.io/badge/X-Balaji%20R-blue?style=for-the-badge&logo=X"></a>
 </p>
 
