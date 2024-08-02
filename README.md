@@ -37,7 +37,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
   <a href="mailto:balajiramu05@gmail.com"><img src="https://img.shields.io/badge/Email-balajiramu05@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://x.com/r_balaji242005"><img src="https://img.shields.io/badge/X-Balaji%20R-blue?style=for-the-badge&logo=X"></a>
 </p>
-
+<hr>
 ## 📈 GitHub Stats
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical)<br>
 <br>
