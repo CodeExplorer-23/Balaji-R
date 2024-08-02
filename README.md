@@ -28,6 +28,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 ## Work Experience
 - **AI Internship in Academor (June 2024 - July 2024)**
    - Collaborated with a team to create a report on the application of AI for warehousing, manufacturing, and mining industries, as well as the ethical limits of AI.
+   - Built a website blocker that restrict illict websites
 
 ## 💬 Let's Connect
 <!--- [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
