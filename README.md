@@ -40,7 +40,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
   <a href="https://x.com/r_balaji242005"><img src="https://img.shields.io/badge/X-Balaji%20R-blue?style=for-the-badge&logo=X" alt="X"></a>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-Balaji%20R-blue?style=for-the-badge&logo=discord" alt="Discord"></a>
+  <a href="https://discord.com/users/balaji2405"><img src="https://img.shields.io/badge/Discord-Balaji%20R-blue?style=for-the-badge&logo=discord" alt="Discord"></a>
   <a href="https://www.instagram.com/your_instagram_handle/"><img src="https://img.shields.io/badge/Instagram-Balaji%20R-purple?style=for-the-badge&logo=instagram" alt="Instagram"></a>
 </p>
 
